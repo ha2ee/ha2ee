@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   * 사용 기술  
     * Tool : eclipse, github
     * Tech : JAVA / JavaScript / CSS / JQUERY / JSP / Web Servlet MVC / HTML
-    * DB : ORACLE 11g SQL Developer
+    * DB : ORACLE 11 SQL Developer
     * Server : Tomcat 9.0
   * <a href="https://github.com/ha2ee/team_project">늘 봄 깃허브</a>
   <br>
