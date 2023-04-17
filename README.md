@@ -68,7 +68,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
     * Tech : JAVA / JavaScript / CSS / jQuery / JSP / Web Servlet MVC / HTML
     * DB : ORACLE 11XE SQL Developer
     * Server : Tomcat 9.0
-  * <a href="https://github.com/seeeop2/ShuKream_">슈크림 깃허브</a>
+  * <a href="https://github.com/ha2ee/ShuKream">슈크림 깃허브</a>
 <br><br><br>
 
 ## Contact & Channels
