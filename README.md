@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <br>
 ### 🛠Tech Stack
 ### Platforms & Languages
-<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=#E34F26&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=#E34F26&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=#1572B6&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=#F7DF1E&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=#0769AD&logoColor=white"/>
