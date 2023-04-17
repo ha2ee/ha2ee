@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🛠Tech Stack
 
-### Platforms & Languages
+### 🛠언어 및 플랫폼
 
 <a href="#"><img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML-orange?flat=#E34F26&logoColor=white"/></a>
