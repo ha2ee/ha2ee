@@ -1,10 +1,3 @@
-### 안녕하세요. 주니어 개발자 김동현입니다. 🤝
-
-## Contact & Channels
-<a href="https://www.notion.so/56f81c05fd554560acf317d058030ae6">📑Notion Portfolio</a>
-
-<a href="https://ha2e.tistory.com/">🏠개인 공부용 티스토리 블로그</a>
-
 <!--
 **ha2ee/ha2ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,36 +14,49 @@ Here are some ideas to get you started:
 -->
 
 
-## 🛠Tech Stack
+# 안녕하세요. 🤝
 
-### 언어 및 플랫폼
+### 안녕하세요, 김동현입니다!
+저는 Java를 메인언어로 개발에 관심을 가지고 있는 신입 개발자입니다.
 
-<a href="#"><img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML-orange?flat=#E34F26&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=#1572B6&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=#F7DF1E&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/jQuery-blue?style=flat&logo=#0769AD&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/OracleSQL-red?style=flat&logo=#F80000&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Spring-green?style=flat&logo=#6DB33F&logoColor=white"/></a>
-<br>
+Back-End 및 웹개발에 관심이 있습니다. 
 
-### ⚙Tools
+<div align=left><h2>📚 Stacks</h2></div>
 
-<a href="#"><img src="https://img.shields.io/badge/Eclipse-violet?style=flat&logo=#2C2255&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Visual Studio Code-skyblue?style=flat&logo=#007ACC&logoColor=white"/>
-<a href="#"><img src="https://img.shields.io/badge/Apache Tomcat-beige?style=flat&logo=#F8DC75&logoColor=white"/>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=#181717&logoColor=white"/>
-<br><br>
+<div align=center> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <br>
   
-## 📕Portfolio
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>  
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+</div>
+  
+## 📕Project
 ### 팀 프로젝트
-* 기간 : 2023.02.15 ~ 2023.04.05
+* 기간 : 2023.02.15 ~ 2023.04.21
   * 주제 : 반려동물 교육 플랫폼
   * 담당 파트 : 답글형 게시판 및 관리자 페이지 구현
   * 사용 기술  
     * Tool : eclipse, github
     * Tech : JAVA / JavaScript / CSS / JQUERY / JSP / Web Servlet MVC / HTML
-    * DB : ORACLE 11 SQL Developer
+    * DB : ORACLE 11XE SQL Developer
     * Server : Tomcat 9.0
   * <a href="https://github.com/ha2ee/team_project">늘 봄 깃허브</a>
   <br>
@@ -65,6 +71,8 @@ Here are some ideas to get you started:
   * <a href="https://github.com/seeeop2/ShuKream_">슈크림 깃허브</a>
 <br><br><br>
 
+## Contact & Channels
+<a href="https://www.notion.so/56f81c05fd554560acf317d058030ae6">📑Notion Portfolio</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2ee&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ha2ee&show_icons=true">
+<a href="https://ha2e.tistory.com/">🏠개인 공부용 티스토리 블로그</a>
+  
