@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 안녕하세요? 김동현입니다.
-🛠Tech Stack
-Platforms & Languages
+## 안녕하세요? 김동현입니다.
+<br><br><br>
+### 🛠Tech Stack
+<br><br>
+### Platforms & Languages
+<br><br>
 <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=#E34F26&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=#1572B6&logoColor=white"/>
@@ -27,7 +30,8 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Spring-green?style=flat&logo=#6DB33F&logoColor=white"/>
 <br><br><br>
 
-⚙Tools
+### ⚙Tools
+<br><br>
 <img src="https://img.shields.io/badge/Eclipse-violet?style=flat&logo=#2C2255&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-skyblue?style=flat&logo=#007ACC&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-beige?style=flat&logo=#F8DC75&logoColor=white"/>
