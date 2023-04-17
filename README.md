@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 안녕하세요? 김동현입니다.
 
-
-### 🛠Tech Stack
+## 🛠Tech Stack
 
 ### 언어 및 플랫폼
 
