@@ -47,7 +47,7 @@ Here are some ideas to get you started:
     * Tech : JAVA / JavaScript / CSS / JQUERY / JSP / Web Servlet MVC / HTML
     * DB : ORACLE 11g SQL Developer
     * Server : Tomcat 9.0
-  * <a href="https://github.com/ha2ee/neulbom">늘 봄 깃허브</a>
+  * <a href="https://github.com/ha2ee/team_project">늘 봄 깃허브</a>
   <br>
 * 기간 : 2023.03.29 ~ 2023.04.25
   * 주제 : 신발 경매 플랫폼
