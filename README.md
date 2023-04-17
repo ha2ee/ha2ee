@@ -1,5 +1,10 @@
 ### 안녕하세요. 주니어 개발자 김동현입니다. 🤝
 
+## Contact & Channels
+<a href="https://www.notion.so/56f81c05fd554560acf317d058030ae6">📑Notion Portfolio</a>
+
+<a href="https://ha2e.tistory.com/">🏠개인 공부용 티스토리 블로그</a>
+
 <!--
 **ha2ee/ha2ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,11 +65,6 @@ Here are some ideas to get you started:
   * <a href="https://github.com/seeeop2/ShuKream_">슈크림 깃허브</a>
 <br><br><br>
 
-### Contact & Channels
-<a href="https://www.notion.so/56f81c05fd554560acf317d058030ae6">📑Notion Portfolio
-  </a><br>
-<a href="https://ha2e.tistory.com/">🏠개인 공부용 티스토리 블로그
-  </a>
-  <br><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha2ee&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ha2ee&show_icons=true">
