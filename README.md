@@ -65,7 +65,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
   * 담당 파트 : 메인페이지, 오시는길, shop list, 검색, checkout(주문)기능 구현
   * 사용 기술 :
     * Tool : STS(version3) , github
-    * Tech : JAVA / JavaScript / CSS / jQuery / JSP / Web Servlet MVC / HTML
+    * Tech : JAVA / JavaScript / CSS / jQuery / JSP / Spring MVC2 / HTML
     * DB : ORACLE 11XE SQL Developer
     * Server : Tomcat 9.0
   * <a href="https://github.com/ha2ee/ShuKream">슈크림 깃허브</a>
