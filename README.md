@@ -55,7 +55,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
   * 담당 파트 : 답글형 게시판 및 관리자 페이지 구현
   * 사용 기술  
     * Tool : eclipse, github
-    * Tech : JAVA / JavaScript / CSS / JQUERY / JSP / Web Servlet MVC / HTML
+    * Tech : JAVA / JavaScript / CSS / JQUERY / JSP / Servlet MVC / HTML
     * DB : ORACLE 11XE SQL Developer
     * Server : Tomcat 9.0
   * <a href="https://github.com/ha2ee/team_project">늘 봄 깃허브</a>
@@ -65,7 +65,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
   * 담당 파트 : 메인페이지, 오시는길, shop list, 검색, checkout(주문)기능 구현
   * 사용 기술 :
     * Tool : STS(version3) , github
-    * Tech : JAVA / JavaScript / CSS / jQuery / JSP / Spring MVC2 / HTML
+    * Tech : JAVA / JavaScript / CSS / jQuery / JSP / Spring MVC / HTML
     * DB : ORACLE 11XE SQL Developer
     * Server : Tomcat 9.0
   * <a href="https://github.com/ha2ee/ShuKream">슈크림 깃허브</a>
