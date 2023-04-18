@@ -63,7 +63,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
 * 기간 : 2023.03.29 ~ 2023.04.25 (진행중 마감기한 04.25 예정)
   * 주제 : 신발 경매 플랫폼
   * 담당 파트 : 메인페이지, 오시는길, shop list, 검색, checkout(주문)기능 구현
-  * 사용 기술 :
+  * 사용 기술 
     * Tool : STS(version3) , github
     * Tech : JAVA / JavaScript / CSS / jQuery / JSP / Spring MVC / HTML / Mybatis
     * DB : ORACLE 11XE SQL Developer
