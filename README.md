@@ -48,27 +48,10 @@ Back-End 및 웹 개발에 관심이 있습니다.
   <br>
 </div>
   
-## 📕Project
-### 팀 프로젝트
-* 기간 : 2023.02.15 ~ 2023.04.15
-  * 주제 : 반려동물 교육 플랫폼
-  * 담당 파트 : 답글형 게시판 및 관리자 페이지 구현
-  * 사용 기술  
-    * Tool : eclipse, github
-    * Tech : JAVA / JavaScript / CSS / JQUERY / JSP / Servlet MVC / HTML
-    * DB : ORACLE 11XE SQL Developer
-    * Server : Tomcat 9.0
-  * <a href="https://github.com/ha2ee/team_project">늘 봄 깃허브</a>
-  <br>
-* 기간 : 2023.03.29 ~ 2023.04.25
-  * 주제 : 신발 경매 플랫폼
-  * 담당 파트 : 메인페이지, 오시는길, shop list, 검색, checkout(주문)기능 구현
-  * 사용 기술 
-    * Tool : STS(version3) , github
-    * Tech : JAVA / JavaScript / CSS / jQuery / JSP / Spring MVC / HTML / Mybatis
-    * DB : ORACLE 11XE SQL Developer
-    * Server : Tomcat 9.0
-  * <a href="https://github.com/ha2ee/ShuKream">슈크림 깃허브</a>
+## 📕
+* <a href="https://github.com/ha2ee/team_project">TeamProject</a>
+* <a href="https://github.com/ha2ee/ShuKream">TeamProject2</a>
+* <a href="https://github.com/ha2ee/SpringBootShop">SpringBootShop</a>
 <br><br><br>
 
 ## Contact & Channels
