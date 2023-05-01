@@ -48,7 +48,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
   <br>
 </div>
   
-## 📕
+## 📕Study
 * <a href="https://github.com/ha2ee/team_project">TeamProject</a>
 * <a href="https://github.com/ha2ee/ShuKream">TeamProject2</a>
 * <a href="https://github.com/ha2ee/SpringBootShop">SpringBootShop</a>
