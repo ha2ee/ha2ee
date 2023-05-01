@@ -60,7 +60,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
     * Server : Tomcat 9.0
   * <a href="https://github.com/ha2ee/team_project">늘 봄 깃허브</a>
   <br>
-* 기간 : 2023.03.29 ~ 2023.04.25 (진행중 마감기한 04.25 예정)
+<!-- * 기간 : 2023.03.29 ~ 2023.04.25 (진행중 마감기한 04.25 예정)
   * 주제 : 신발 경매 플랫폼
   * 담당 파트 : 메인페이지, 오시는길, shop list, 검색, checkout(주문)기능 구현
   * 사용 기술 
@@ -70,7 +70,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
     * Server : Tomcat 9.0
   * <a href="https://github.com/ha2ee/ShuKream">슈크림 깃허브</a>
 <br><br><br>
-
+ -->
 ## Contact & Channels
 <a href="https://www.notion.so/56f81c05fd554560acf317d058030ae6">📑Notion Portfolio</a>
 
