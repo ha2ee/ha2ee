@@ -55,7 +55,7 @@ Back-End 및 웹 개발에 관심이 있습니다.
 <br><br><br>
 
 ## Contact & Channels
-<a href="https://www.notion.so/56f81c05fd554560acf317d058030ae6">📑Notion Portfolio</a>
+
 
 <a href="https://ha2e.tistory.com/">🏠개인 공부용 티스토리 블로그</a>
   
