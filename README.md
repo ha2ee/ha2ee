@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 ### 안녕하세요, 김동현입니다!
-저는 Java를 메인언어로 기술 스택을 쌓아 가고 있는 주니어 개발자입니다.
+저는 Java를 메인언어로 기술 스택을 쌓아 가고 있는 개발자 준비생입니다.
 
-Back-End 및 웹 개발에 관심이 있습니다.
+Back-End에 관심이 있습니다.
 
 <div align=left><h2>📚 Stacks</h2></div>
 
